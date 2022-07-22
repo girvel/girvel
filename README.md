@@ -6,7 +6,7 @@ I am Nikita Dobrynin, a programmer from Perm, Russia, a. k. a. girvel.
 - I am currently learning **Rust**
 - I have a habit of compulsively developing **games**. The latest one is [Metaworld](https://github.com/girvel/metaworld), non-visual novel. Lately it feels like developing games is more fun than playing them. 
 - I am quite proud of my [own interpretation of ECS](https://github.com/girvel/ecs). System are functions with annotation-based syntax, that are applied to cartesian product of entities that match arguments. Almost dynamic, somewhat asynchronous. 
-- I am very open to collaborations. I would love to write something open-source in a team. Contact me on my telegram [@girvel](https://t.me/girvel) and discord Girvel#7522. 
+- I am very open to collaborations. I would love to write something open-source in a team. Contact me on my telegram [@girvel](https://t.me/girvel) and discord [Girvel#7522](https://discordapp.com/users/Girvel#7522).
 
 <!--
 **girvel/girvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
