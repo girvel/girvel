@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am Nikita Dobrynin, a programmer from Perm, Russia, a. k. a. girvel.
+
+- I work as **Python developer**
+- I am currently learning **Rust**
+- I have a habit of compulsively developing games. The latest one is [Metaworld](https://github.com/girvel/metaworld), non-visual novel
+- I am quite proud of my [own interpretation of ECS](https://github.com/girvel/
+
 <!--
 **girvel/girvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
