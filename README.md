@@ -2,7 +2,7 @@
 
 I am Nikita Dobrynin, a programmer from Perm, Russia, a. k. a. girvel.
 
-- I work as **Python developer**
+- I work as **Python software developer**
 - I am currently learning **Rust**
 - I admire **Lua** and **LOVE**
 - I have a habit of compulsively developing **games**. The latest one is [Rex Astra](https://github.com/girvel/rex_astra), very very simple RTS built with LOVE. Lately it feels like developing games is more fun than playing them. 
