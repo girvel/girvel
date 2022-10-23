@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I am Nikita Dobrynin, a programmer from Perm, Russia, a. k. a. girvel.
 
