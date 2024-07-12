@@ -14,7 +14,9 @@ Quick overview:
 
 ### Screenshots
 
-<img src="/screenshots/fallen.png" width="150">
-<img src="screenshots/fallen_python.png" width="150" style="float: left;">
-<img src="/screenshots/ecs.png" width="150">
-<img src="/screenshots/rex_astra.png" width="150">
+<div style="display: inline;">
+    <img src="/screenshots/fallen.png" width="150">
+    <img src="screenshots/fallen_python.png" width="150" style="float: left;">
+    <img src="/screenshots/ecs.png" width="150">
+    <img src="/screenshots/rex_astra.png" width="150">
+</div>
