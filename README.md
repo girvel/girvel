@@ -14,7 +14,7 @@ Quick overview:
 
 ### Screenshots
 
-<img src="/screenshots/fallen.png">
+<img src="/screenshots/fallen.png" width="150">
 ![](screenshots/fallen_python.png)
 ![](screenshots/ecs.png)
 ![](screenshots/rex_astra.png)
