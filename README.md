@@ -17,6 +17,5 @@ Quick overview:
 <div style="display: inline;">
     <img src="/screenshots/fallen.png" width="22%">
     <img src="screenshots/fallen_python.png" width="22%">
-    <img src="/screenshots/ecs.png" width="22%">
     <img src="/screenshots/rex_astra.png" width="22%">
 </div>
