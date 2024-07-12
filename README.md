@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Nikita Dobrynin, a programmer from Perm, Russia, a. k. a. girvel.
+Quick overview:
 
 - I work as **Backend developer**
 - I am currently learning **game design stuff**
