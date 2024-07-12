@@ -15,7 +15,7 @@ Quick overview:
 ### Screenshots
 
 <div style="display: inline;">
-    <a href="https://github.com/girvel/girvel/blob/master/screenshots/fallen.png target="_blank">
+    <a href="https://github.com/girvel/girvel/blob/master/screenshots/fallen.png" target="_blank">
         <img src="/screenshots/fallen.png" width="22%">
     </a>
     <img src="screenshots/fallen_python.png" width="22%">
