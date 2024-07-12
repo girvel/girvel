@@ -15,8 +15,8 @@ Quick overview:
 ### Screenshots
 
 <div style="display: inline;">
-    <img src="/screenshots/fallen.png" width="25%" style="vertical-align: middle;">
-    <img src="screenshots/fallen_python.png" width="150">
-    <img src="/screenshots/ecs.png" width="150">
-    <img src="/screenshots/rex_astra.png" width="150">
+    <img src="/screenshots/fallen.png" width="25%">
+    <img src="screenshots/fallen_python.png" width="25%">
+    <img src="/screenshots/ecs.png" width="25%">
+    <img src="/screenshots/rex_astra.png" width="25%">
 </div>
